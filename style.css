@@ -1,0 +1,242 @@
+
+
+.con{
+    height: 55px;
+    background-color: #316DC3;
+}
+
+.button{
+    position: absolute;
+    top: 10px;
+    right: 100px;
+    font-size: 14px;   
+}
+p{
+    position: absolute;
+    top: 10px;
+    padding-left: 50px;
+    right: 450px;
+    color: white;  
+}
+
+.navbar{
+    height: 75px;
+    background-color: rgb(250, 245, 245);
+}
+
+.saylani{
+    position: absolute;
+    left: 100px;
+}
+.navbar-nav{
+    padding: 100px;
+}
+.nav-item{
+    padding: 10px;
+}
+
+.dropdown:hover>.dropdown-menu{
+    display: block;
+    
+}
+
+.navbar .navbar-nav  .nav-item a:hover
+{
+        background-color: #316DC3;
+        border-radius: 20px;
+        color: white;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        
+}
+
+a{
+        color: black;
+        font-weight: 500;
+}
+
+.icon{
+    position: absolute;
+    top: 10px;
+    left: 100px;
+}
+#wt{
+    color: white;
+}
+
+/* *************Slider************** */
+
+.carousel img {
+
+    left: 0px;
+    right: 0px;
+    /* width: 100%; */
+    height: 500px;
+   
+    background-size: cover;
+}
+
+/* *********Intro************ */
+
+.intro h1{
+    color: blue;
+    line-height: 3em;
+}
+span{
+    color: green;
+}
+.para{
+    position: relative;
+    left: 30px;
+    font-size: 20px;
+    line-height: 2em;
+}
+
+/* ***************counter************** */
+
+.label{
+    height: 350px;
+    /* line-height: 5em; */
+    background-color: #2855E8;
+    margin-top: 100px;
+    /* margin-bottom: 100px; */
+}
+
+h4{
+    font-size: 50px;
+}
+.row{
+    position: relative;
+    top: 50px;
+}
+
+.row span{
+    color: rgb(77, 221, 77);
+}
+
+.service h1{
+    color: blue;
+}
+
+/* ******************service**************8 */
+.service{
+    margin-top: 250px;
+    height: 700px;
+    background-color: #F7F8FA;
+   
+}
+h3{
+    position: relative;
+    color: black;
+    text-align: center;
+    top: 20px;
+}
+.service  .service-div
+    {
+        width: 400px;
+        height: 200px;
+        background-color: white;
+        box-shadow:  0px 10px 10px 0px #DCDCDE;
+        margin: 45px;
+    }
+.service img{
+    padding-left: 80px;
+}
+/* **********hepatytus********* */
+
+.mission h3{
+    position: relative;
+    top: 50px;
+    color: blue;
+    left: 10px;
+    text-align: left;
+}
+.activity{
+    background-color: rgb(237, 237, 246);
+    width: 700px;
+    height: 150px;
+    position: relative;
+    top: 100px;
+    margin-left: 0;
+    
+}
+.hepatytus h5{
+    position: absolute;
+    color: black;
+    top: 5px;
+    left: 50px;
+}
+
+.house h5{
+    position: absolute;
+    color: black;
+    top: 5px;
+    left: 350px;
+}
+.house img{
+    position: relative;
+    margin-left: 300px;
+    top: 10px;
+}
+
+.IT img{
+    position: relative;
+    top: 50px;
+    margin-left: -290px;
+}
+
+.IT h5{
+    color: black;
+    position: absolute;
+    top: 60px;
+    left: -230px;
+}
+
+.thar img{
+    position: relative;
+    top: 60px;
+    right: 50px;
+}
+
+.thar h5{
+    color: black;
+    position: relative;
+    top: 35px;
+}
+
+/* *******************sidebar************ */
+
+.up p{
+    position: relative;
+    color: black;
+    left: 750px;
+    top: 0px;
+    
+    
+}
+.up h3{
+    position: absolute;
+    color: blue;
+    margin-top: -150px;
+    left: 900px;
+    font-size: 32px;
+}
+
+/* **************************** */
+.gallery img{
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+    margin-left: 15px;
+}
+
+                /* ************Footer*********** */
+
+
+
+
+
+
+
+
+

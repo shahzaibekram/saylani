@@ -1,0 +1,62 @@
+
+#footer
+{
+    height: 400px;
+    background-color: #25272E;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin-top: 100px;
+}
+.saylanimedia p{
+    position: absolute;
+    left: 20px;
+    top: 50px;
+}
+
+.sa p{
+    position: absolute;
+    left: 20px;
+    top: 100px;
+}
+.say p{
+    position: absolute;
+    left: 20px;
+    top: 150px;
+}
+
+.sayl p{
+    position: absolute;
+    left: 20px;
+    top: 200px;
+}
+
+.saylan p{
+    position: absolute;
+    left: 20px;
+    top: 245px;
+}
+
+#footer h4{
+    position: absolute;
+    margin-left: -60px;
+}
+#footer i{
+    color: green;
+}
+
+/* *****************end**************** */
+
+#copyright{
+    height: 40px;
+    background-color: blue;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 80px;
+}
+
+#copyright p{
+    left: 500px;
+}
